@@ -1,0 +1,11 @@
+EmployeeID,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,PerformanceRating,WorkHoursPerWeek,Attrition
+1,28,Sales,Sales Executive,35000,2,3,45,Yes
+2,34,IT,Software Engineer,55000,5,4,40,No
+3,45,HR,HR Manager,65000,10,4,38,No
+4,26,Sales,Sales Executive,30000,1,2,50,Yes
+5,39,IT,Data Analyst,60000,6,3,42,No
+6,31,Finance,Accountant,48000,4,3,44,No
+7,29,IT,Software Engineer,52000,3,2,46,Yes
+8,41,HR,HR Executive,58000,8,4,40,No
+9,36,Sales,Manager,70000,9,4,41,No
+10,24,IT,Intern,20000,1,2,48,Yes
